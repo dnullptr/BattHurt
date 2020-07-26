@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "727551864930",
+    "firebase_url": "https://batthurt-a8095.firebaseio.com",
+    "project_id": "batthurt-a8095",
+    "storage_bucket": "batthurt-a8095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727551864930:android:a67fdb92fc401e46df213b",
+        "android_client_info": {
+          "package_name": "com.danik.batthurt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727551864930-ms41rar62uv9ddssjd9f5j0pog3sehnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.danik.batthurt",
+            "certificate_hash": "67e0f5478e0f2d1ce84d1015b040254e661c1756"
+          }
+        },
+        {
+          "client_id": "727551864930-0ehr7f6c7vva3avoqtods79fjcl1q7tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRu8Vka8NmYMQHWv4RWOynnxgai1RKSHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727551864930-0ehr7f6c7vva3avoqtods79fjcl1q7tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
